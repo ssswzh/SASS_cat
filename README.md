@@ -40,7 +40,7 @@ First, setup and install required packages in [./dotfiles/setup.bash](setup file
 
 Next, clone the repository:
 ```bash
-git clone https://github.com/AdMorgado/leiden_robo_project.git ~/ros2_ws
+git clone https://github.com/ssswzh/SASS_cat.git ~/ros2_ws
 cd ~/ros2_ws
 ```
 
